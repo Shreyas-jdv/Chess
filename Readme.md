@@ -9,12 +9,9 @@
     <li>JavaScript</li>
 </ul>
 
-#### To play the game click on <br> [PLAY CHESS](https://shreyas-jdv.github.io/Chess/index.html)
+#### To play the game click on <br><br> [PLAY CHESS](https://shreyas-jdv.github.io/Chess/index.html)
 
 ---
 
 
-
-<h3> Screenshot </h3>
-
-<img src="g" alt="Screenshot (22)" style="max-width:100%;">
+<img src="https://github.com/Shreyas-jdv/Chess/blob/main/Chess.JPG" alt="Screenshot (22)" style="max-width:100%;">
