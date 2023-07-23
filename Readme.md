@@ -1,6 +1,6 @@
 <h1>Chess Game</h1>
 
-<p>A Chess Game written in HTML, CSS and JAVASCRIPT .</p>
+<p>Game of Chess created using HTML, CSS and JAVASCRIPT. It is not a compurized game. It can be played by two players</p>
 
 <h3>Used Technologies</h3>
 <ul>
